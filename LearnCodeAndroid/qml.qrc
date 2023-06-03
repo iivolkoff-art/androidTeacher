@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>mainWondow/MainBottomPanel.qml</file>
+        <file>mainWondow/MainTopPanel.qml</file>
+        <file>mainWondow/MyMainWindow.qml</file>
+        <file>mainWondow/MyPagesPanel.qml</file>
+        <file>profilePage/MyProfilePage.qml</file>
+        <file>profilePage/MyTopPanel.qml</file>
+        <file>profilePage/MyMainPanel.qml</file>
+    </qresource>
+</RCC>
